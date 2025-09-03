@@ -1,0 +1,18 @@
+@model buoi3.Models.Toan
+<h2> Dữ liệu: @ViewBag.Message</h2>
+<h2> Nhập thông tin </h2>
+<form asp-action= "Index" method="post">
+    <label> Số thứ 1:</label>
+    <input type="number"name="so1" placeholder=" số thứ 1">
+    <label> Số thứ 2:</label>
+    <input type="number"name="so2" placeholder=" số thứ 2">
+    <label> Chọn phép toán:</label>
+        <select name= "phepToan">
+            <option value="+">Cộng</option>
+            <option value="-">Trừ</option>
+            <option value="*">Nhân</option>
+            <option value="/">Chia</option>
+        </select>
+    <button type="submit">Kết quả</button>
+    <h2>Kết quả: @model.Ketqua</h2>
+</form>

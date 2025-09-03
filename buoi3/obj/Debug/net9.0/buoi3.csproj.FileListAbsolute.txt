@@ -1,0 +1,107 @@
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\appsettings.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\buoi3.staticwebassets.runtime.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\buoi3.staticwebassets.endpoints.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\buoi3.exe
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\buoi3.deps.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\buoi3.runtimeconfig.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\bin\Debug\net9.0\buoi3.pdb
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.AssemblyInfoInputs.cache
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.AssemblyInfo.cs
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.csproj.CoreCompileInputs.cache
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.RazorAssemblyInfo.cache
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.RazorAssemblyInfo.cs
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\scopedcss\bundle\buoi3.styles.css
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\scopedcss\projectbundle\buoi3.bundle.scp.css
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\0cc3x1dwel-b9sayid5wm.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\s284jc5shv-61n19gt1b8.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\xaiww4mp9p-xtxxf3hu2r.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\fus0erjl75-bqjiyaj88i.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\lg5unj2ru6-c2jlpeoesf.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\1z6ilm4h7o-erw9l3u2r3.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\ubkz1xrd25-aexeepp0ev.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\hq74zh55zy-d7shbmvgxk.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\a080xl3ewa-ausgxo2sd3.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\2xz28bbou8-k8d9w2qqmf.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\5cnmvaztbj-cosvhxvwiu.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\52tup3ce5q-ub07r2b239.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\n51a0ubrse-fvhpjtyr6v.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\ladmoan3t1-b7pk76d08c.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\ahdmpvdxn5-fsbi9cje9m.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\fa4i1l2wuq-rzd6atqjts.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\x90jjp6gq3-ee0r1s7dh0.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\yqg5sbg19t-dxx9fxp4il.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\gqifxcjtha-jd9uben2k1.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\arlq0zffdm-khv3u5hwcm.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\bk3pmi4rkf-r4e9w2rdcm.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\lmi79rzs06-lcd1t2u6c8.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\lhz6pbjkup-c2oey78nd0.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\mo10jz31zz-tdbxkamptv.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\io9lirf8s1-j5mq2jizvt.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\yfpl4pc9ff-06098lyss8.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\qebf7jhvkx-nvvlpmu67g.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\gjb92e7uuv-s35ty4nyc5.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\631wyoj9mi-pj5nd1wqec.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\hus2bu8zkv-46ein0sx1k.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\x6nfo59jxt-v0zj4ognzu.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\uwhqd8a36o-37tfw0ft22.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\23ss6smuen-hrwsygsryq.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\ym4vbfq2su-pk9g2wxc8p.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\yu668i8oop-ft3s53vfgj.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\g28gh4f7ww-6cfz1n2cew.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\e7dwku2un9-6pdc2jztkx.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\09k7h01ol2-493y06b0oq.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\v50h2p9yke-iovd86k7lj.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\vu2rxx18a2-vr1egmr9el.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\pfi4yjhe10-kbrnm935zg.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\zvfhrlx1n8-jj8uyg4cgr.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\c3l3cxxc0h-y7v9cxd14o.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\izx8ox81sg-notf2xhcfb.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\9ia8xmum2u-h1s4sie4z3.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\lacslyxvym-63fj8s7r0e.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\la30z7csey-0j3bgjxly4.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\n5urlw31ve-47otxtyo56.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\b2eu4ztu6e-4v8eqarkd7.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\jjdtr5jilg-356vix0kms.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\c4lkv69nqc-83jwlth58m.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\rqk5c56z20-mrlpezrjn3.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\71eh39z0yn-lzl9nlhx6b.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\ktte9vqnbh-ag7o75518u.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\ovfaflg333-x0q3zqp4vz.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\bhun4r2mt8-0i3buxo5is.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\8zwuj7pcn8-o1o13a6vjx.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\5ll4p6qgq7-ttgo8qnofa.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\x03tu97akm-2z0ns9nrw6.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\nu4tg5wlbv-muycvpuwrr.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\mgam2xz5ek-87fc7y1x7t.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\1xpowxttlo-mlv21k5csn.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\n3jtul3zyz-5lbgguqmxq.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\compressed\1art34cgxz-5lbgguqmxq.gz
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\refint\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.pdb
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\buoi3.genruntimeconfig.cache
+C:\Users\tinhn\OneDrive\Desktop\Phát triển phần mềm quản lý_Thầy Hiển_2526\buoi3\obj\Debug\net9.0\ref\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.AssemblyInfoInputs.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.AssemblyInfo.cs
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.csproj.CoreCompileInputs.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.RazorAssemblyInfo.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.RazorAssemblyInfo.cs
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\refint\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.pdb

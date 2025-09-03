@@ -1,0 +1,11 @@
+@model buoi3.Models.Person
+<h2> Dữ liệu: @ViewBag.Message</h2>
+<h2> Nhập thông tin </h2>
+<form asp-action= "Index" method="post">
+    <label> Họ tên:</label>
+    <input type="text"name="FullName" placeholder=" họ và tên">
+     <label> Năm sinh :</label>
+    <input type="number"name="Date" placeholder=" Năm sinh">
+
+    <button type="submit">Kết quả</button>
+</form>
