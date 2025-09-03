@@ -1,0 +1,16 @@
+@model buoi3.Models.BMI
+
+<h1> Tính chỉ số BMI</h1>
+<form asp-action="Index"method="post">
+    <label> Họ và tên</label>
+    <input type="text" name="hoten" placeholder="Họ và tên" />
+    
+    <label>Cân nặng (kg): </label>
+    <input type="number" name="cannang" placeholder="Cân nặng (kg)" />
+
+    <label>Chiều cao (m): </label>
+    <input type="number" step="0.01" name="chieucao" placeholder="Chiều cao (m)" />
+
+    <button type="submit"> Tính chỉ số BMI</button>
+    <h2>@ViewBag.Message</h2>
+</form>

@@ -105,3 +105,15 @@ C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.RazorA
 C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.dll
 C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\refint\buoi3.dll
 C:\Users\tinhn\OneDrive\Desktop\PTPMQL2425K2\buoi3\obj\Debug\net9.0\buoi3.pdb
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.AssemblyInfoInputs.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.AssemblyInfo.cs
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.csproj.CoreCompileInputs.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.RazorAssemblyInfo.cache
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.RazorAssemblyInfo.cs
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.sourcelink.json
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\refint\buoi3.dll
+C:\Users\tinhn\OneDrive\Desktop\PTPMQL2526K2\buoi3\obj\Debug\net9.0\buoi3.pdb
