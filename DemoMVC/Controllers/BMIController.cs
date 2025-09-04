@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using buoi3.Models;
+using DemoMVC.Models;
 using System.Diagnostics;
-namespace buoi3.Controllers
+namespace DemoMVC.Controllers
 {
     public class BMIController : Controller
     {

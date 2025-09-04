@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-namespace buoi3.Models
+namespace DemoMVC.Models
 {
     public class BMI
     {

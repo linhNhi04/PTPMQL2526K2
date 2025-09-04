@@ -1,4 +1,4 @@
-namespace buoi3.Models;
+namespace DemoMVC.Models;
 
 public class ErrorViewModel
 {
